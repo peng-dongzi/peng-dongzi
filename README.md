@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning front-end development.
+- 👯 I’m looking to collaborate on learning front-end development.
+- 📫 How to reach me: pengzehua6@gmail.com
+- 😄 Pronouns: He/Him
